@@ -1,0 +1,5 @@
+*.csv
+.ipynb_checkpoints/*
+pages/*
+data/*
+activate.sh
